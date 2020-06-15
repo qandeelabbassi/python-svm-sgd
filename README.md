@@ -1,3 +1,5 @@
+![alt text](https://miro.medium.com/max/3840/1*GkWTK4BydcVe3d334SKsjg.jpeg)
+
 # python-svm-sgd
 Python implementation of stochastic gradient descent algorithm for SVM from scratch
 
